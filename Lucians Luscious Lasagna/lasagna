@@ -1,5 +1,4 @@
 
-//
 // 💡 Often, the JSDoc comment blocks have annotations, such as @param and
 // @returns which are usually highlighted with a different color if the IDE
 // you're in recognizes them. It's these annotations that are used when
